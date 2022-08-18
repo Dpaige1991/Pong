@@ -1,5 +1,3 @@
-# Pong
-
 ## Goal
 
 Score points by bouncing the ball towards the computer's goal.
