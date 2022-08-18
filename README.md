@@ -12,4 +12,4 @@ Use the up/down arrow keys to move the paddle.
 
 ## Play the game
 
-[Link text Here](https://link-url-here.org)
+[Click Here](https://dpaige1991.github.io/Pong/)
